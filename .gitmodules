@@ -1,3 +1,6 @@
 [submodule "escrow-litesvm"]
 	path = escrow-litesvm
 	url = git@github.com:Mobius3-3/escrow-litesvm.git
+[submodule "whitelist-transfer-hook"]
+	path = whitelist-transfer-hook
+	url = git@github.com:Mobius3-3/whitelist-transfer-hook.git
