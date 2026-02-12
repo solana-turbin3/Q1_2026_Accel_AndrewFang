@@ -1,6 +1,9 @@
-[submodule "escrow-litesvm"]
-	path = escrow-litesvm
-	url = git@github.com:Mobius3-3/escrow-litesvm.git
-[submodule "whitelist-transfer-hook"]
-	path = whitelist-transfer-hook
-	url = git@github.com:Mobius3-3/whitelist-transfer-hook.git
+[submodule "accel-week1-challenge"]
+	path = week1/accel_week1_challenge
+	url = https://github.com/Mobius3-3/accel-week1-challenge.git
+[submodule "week1/escrow-litesvm"]
+	path = week1/escrow-litesvm
+	url = https://github.com/Mobius3-3/escrow-litesvm.git
+[submodule "week1/whitelist-transfer-hook"]
+	path = week1/whitelist-transfer-hook
+	url = https://github.com/Mobius3-3/whitelist-transfer-hook.git
