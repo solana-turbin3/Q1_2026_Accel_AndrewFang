@@ -7,3 +7,6 @@
 [submodule "week1/whitelist-transfer-hook"]
 	path = week1/whitelist-transfer-hook
 	url = https://github.com/Mobius3-3/whitelist-transfer-hook.git
+[submodule "week2/er-vrf"]
+	path = week2/er-vrf
+	url = https://github.com/Mobius3-3/er-vrf
