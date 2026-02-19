@@ -10,3 +10,15 @@
 [submodule "week2/er-vrf"]
 	path = week2/er-vrf
 	url = https://github.com/Mobius3-3/er-vrf
+[submodule "week2/tuktuk-escrow-scheduler"]
+	path = week2/tuktuk-escrow-scheduler
+	url = https://github.com/Mobius3-3/tuktuk-escrow-scheduler
+[submodule "week2/tuktuk-escrow"]
+	path = week2/tuktuk-escrow
+	url = https://github.com/Mobius3-3/tuktuk-escrow-scheduler.git
+[submodule "week2/tuktuk-gpt-oracle"]
+	path = week2/tuktuk-gpt-oracle
+	url = https://github.com/Mobius3-3/tuktuk-gpt-oracle.git
+[submodule "week3/delicious-crab"]
+	path = week3/delicious-crab
+	url = https://github.com/Mobius3-3/delicious-crab.git
